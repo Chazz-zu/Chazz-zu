@@ -7,20 +7,17 @@
 <h2>📃 Certifications </h2>
 
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
+- [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/e48ff3dc-a6fe-453b-bd04-301f4778643e/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/3b53a80f-71ea-4d27-816a-40592df73e90/public_url)
+- [Computer Hardware Basics](https://www.credly.com/badges/b3c3a1af-3f60-4474-8542-fdeafb04b5c2/public_url)
+- [MTA: Database Fundamentals - Certified 2021](https://www.credly.com/badges/f55f23f4-a52c-4391-a684-ba2432913b21/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CharlesAbiog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://www.linkedin.com/in/charles-edward-abiog/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
